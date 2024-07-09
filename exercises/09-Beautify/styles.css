@@ -27,3 +27,36 @@
 	overflow: hidden;
 	border-radius: 25px;
 }
+#div4 {
+	background-color: blue;
+	height: 100px;
+	width: 150px;
+	padding: 100px;
+	float: left;
+	color: black;
+	text-align: center;
+	/*overflow: hidden;*/
+	border-radius: 25px;
+}
+
+#div5 {
+	background-color: red;
+	height: 100px;
+	width: 150px;
+	padding: 25px;
+	color: white;
+	text-align: center;
+	overflow: hidden;
+	border-radius: 25px;
+}
+
+#div6 {
+	background-color: black;
+	height: 100px;
+	width: 150px;
+	padding: 25px;
+	color: white;
+	text-align: center;
+	overflow: hidden;
+	border-radius: 25px;
+}
